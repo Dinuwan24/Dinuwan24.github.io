@@ -1,0 +1,6 @@
+{
+  "name": "Recipes by Hyun",
+  "description": "Find comforting recipes for cheesy bites, easy dinners and homemade sweets. Explore simple recipes made with love.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
