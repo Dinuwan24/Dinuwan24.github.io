@@ -3,7 +3,7 @@ export const SITE_NAME = 'Recipes by Hyun';
 export const HOME_SEO_TITLE = 'Easy Comfort Food Recipes | Recipes by Hyun';
 export const HOME_SEO_DESCRIPTION =
   'Find comforting recipes for cheesy bites, easy dinners and homemade sweets. Explore simple recipes made with love.';
-export const PINTEREST_DOMAIN_VERIFY = 'PINTEREST_CLAIM_CODE_HERE';
+export const PINTEREST_DOMAIN_VERIFY = '38054ea28124efda6fc41030332ba58a';
 export const PATREON_URL = 'https://www.patreon.com/c/RecipesbyHyun';
 export const FACEBOOK_URL = 'https://www.facebook.com/share/1F7QYiLZNi/';
 export const AFFILIATE_DISCLOSURE =
